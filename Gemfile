@@ -9,6 +9,8 @@ gem "autoprefixer-rails"
 gem "font-awesome-sass", "~> 6.1"
 gem "sassc-rails"
 
+gem "cloudinary"
+
 # --> J'installe SIMPLE FORMS
 gem "simple_form"
 
